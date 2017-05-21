@@ -12,7 +12,7 @@ Essa página lista diversos <i>demos</i> e exemplos que você pode utilizar para
 > [Adicione aqui!](https://github.com/developit/preact-www/blob/master/content/about/demos-examples.md)_
 
 
-## Aplicações completos
+## Aplicações completas
 
 [**Webiste do Preact ** _(preactjs.com)_](https://preactjs.com)
 Logicamente, esse <i>website</i> é construído com Preact.
